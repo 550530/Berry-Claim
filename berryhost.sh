@@ -4,7 +4,7 @@
 : "${SESSION_ID:?请设置 GitHub Secret: SESSION_ID}"
 
 # ===== 公共配置（所有人相同，无需修改）=====
-GUILD_ID="1453168143865352374"
+GUILD_ID="1453169471681200293"
 CHANNEL_ID="1453169471681200293"
 CUSTOM_ID="daily_claim_button"
 
